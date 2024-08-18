@@ -6,7 +6,7 @@
     font-style:normal;
     font-weight:400;
     font-display:swap;
-    src:url(/fonts/Outfit-Regular.ttf);
+    src:url(./fonts/Outfit-Regular.ttf)format('truetype');
 }
 
 @font-face{
@@ -14,7 +14,7 @@
     font-style:normal;
     font-weight:700;
     font-display:swap;
-    src:url(/fonts/Outfit-Bold.ttf);
+    src:url(./fonts/Outfit-Bold.ttf)format('truetype');
 }
 
 :root{
